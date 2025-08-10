@@ -1,0 +1,86 @@
+body{
+    background-image: url('./images/Acoustic-Guitar-Pictures-08212.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+    
+}
+.text{
+    color: #F5F5DC;
+    text-shadow: 2px 2px 4px #3b2f2f;
+    font-family: Mozilla Headline;
+}
+.img{
+    display: inline-block;
+    
+    margin: 20px;
+}
+.img-chord{
+    height: 100px;
+    width: auto;
+    margin: 20px;
+}
+.c{
+    height: 150px;
+    width: 100px;
+    background-image: url('./images/C.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border:5px solid rgb(132, 83, 18) ;
+}
+.d{
+    height: 150px;
+    width: 100px;
+    background-image: url('./images/D.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border:5px solid rgb(132, 83, 18) ;
+}
+.e{
+    height: 150px;
+    width: 100px;
+    background-image: url('./images/E.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border:5px solid rgb(132, 83, 18) ;
+}
+.f{
+    height: 150px;
+    width: 100px;
+    background-image: url('./images/F.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border:5px solid rgb(132, 83, 18) ;
+}
+.g{
+    height: 150px;
+    width: 100px;
+    background-image: url('./images/G.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border:5px solid rgb(132, 83, 18) ;
+}
+.a{
+    height: 150px;
+    width: 100px;
+    background-image: url('./images/A.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border:5px solid rgb(132, 83, 18) ;
+}
+.b{
+    height: 150px;
+    width: 100px;
+    background-image: url('./images/B.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border:5px solid rgb(132, 83, 18) ;
+}
