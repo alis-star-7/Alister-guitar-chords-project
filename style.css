@@ -10,7 +10,7 @@ body{
     color: #F5F5DC;
     text-shadow: 2px 2px 4px #3b2f2f;
     font-family: Mozilla Headline;
-    font-size: 100px
+    
 }
 .text2{
     color: #F5F5DC;
@@ -90,4 +90,5 @@ body{
     border-radius: 20px;
     border:5px solid rgb(132, 83, 18) ;
 }
+
 
